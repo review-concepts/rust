@@ -1,0 +1,1 @@
+/home/server/Desktop/review_concepts/rust/ownership_borrowing/what-is-ownership/target/debug/creating-a-string: /home/server/Desktop/review_concepts/rust/ownership_borrowing/what-is-ownership/src/main.rs
